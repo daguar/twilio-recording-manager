@@ -1,5 +1,3 @@
 gem 'twilio-ruby'
 gem 'sinatra'
 gem 'pry'
-gem 'vcr'
-gem 'webmock'
