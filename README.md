@@ -28,6 +28,7 @@ Then, install the necessary dependencies from the Gemfile with Bundler:
 Next, set the environment variables for your Twilio account (I advise storing in your environment profile/rc for convenience):
 
 `export TWILIO_SID=myTwilioSIDGoesHere`
+
 `export TWILIO_AUTH=myTwilioAuthTokenGoesHere`
 
 Lastly, run the Sinatra app!
@@ -36,5 +37,5 @@ Lastly, run the Sinatra app!
 
 # Copyright and License
 
-Copyright Dave Guarino 2013 - GNU Public License v3 ("v. free")
+Copyright Dave Guarino 2013 - GNU Public License v3 ("v. free") - No liability or warranties!
 
